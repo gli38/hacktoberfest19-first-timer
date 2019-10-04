@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## What is Hacktoberfest'19?
 
@@ -256,6 +256,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Wasapon Benth Strife, Student - port vila, vanuatu
 - Matheus dos Santos Leite, Software Developer - Brazil
 - Kate Jody, Developer Web -Ha Noi, Vietnam
+-Gavin Li, Student - California, USA
 
 > (Add your name, profession and location right above this markdown comment)
 
